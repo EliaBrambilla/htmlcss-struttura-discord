@@ -163,13 +163,13 @@ footer{
     
 }
 
-.ale1{
+.last1{
     background-color: blue;
     width: 150px;
     flex-basis: 20%;
 }
 
-.ale2{
+.last2{
     background-color: cornflowerblue;
     width: 450px;
     flex-basis: 40%;
