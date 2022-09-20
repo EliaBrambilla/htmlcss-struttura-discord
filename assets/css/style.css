@@ -3,3 +3,47 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(90, 89, 89);
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    height: 20%;
+    margin: auto;
+    background-color: red;
+    justify-content: space-between;
+    color: white;
+    text-align: center;
+    
+}
+
+.cont{
+    width: 150px;
+    background-color: lightgreen;
+    padding: 5px;
+}
+
+.menu{
+    width: 450px;
+    background-color: lightgreen;
+    
+}
+
+ul li{
+    display: inline-block;
+    padding: 5px;
+}
+
+.cont-centr{
+    background-color: green;
+    margin: auto;
+    width: 50%;
+    height: 400px;
+}
+
