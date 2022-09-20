@@ -128,3 +128,51 @@ ul li{
     width: 100%;
 }
 
+/* FOOTER */
+footer{
+    width: 100%;
+    margin: auto;
+    height: 650px;
+    background-color: #23272a;
+}
+
+.foot-cont{
+    
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    
+}
+
+.foot-item1{
+    background-color: red;
+    flex-basis: 16%;
+    height: 500px;
+}
+
+.foot-item{
+    background-color: violet;
+    flex-basis: 16%;
+    height: 500px;
+}
+
+.foot-cont2{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.ale1{
+    background-color: blue;
+    width: 150px;
+    flex-basis: 20%;
+}
+
+.ale2{
+    background-color: cornflowerblue;
+    width: 450px;
+    flex-basis: 40%;
+}
+
+
